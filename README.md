@@ -14,9 +14,9 @@ This is a simple quiz application where the user answers five questions and the 
 
 <!-- Links -->
 ## Links
-Front-End Part - https://github.com/AR-Pavan/quiz-app-backend
+Back-End Part - https://github.com/AR-Pavan/quiz-app-backend
 
-Deployed Site - [https://zenclass-capstone-project.netlify.app/](https://my-simple-quiz-app-007.netlify.app/)
+Deployed Site - https://my-simple-quiz-app-007.netlify.app/
 
 
 <!-- CONTACT -->
