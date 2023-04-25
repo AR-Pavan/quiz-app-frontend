@@ -1,3 +1,32 @@
+<!-- Description -->
+## Description
+
+This is a simple quiz application where the user answers five questions and the results are displayed once the answers have been submitted. The application is designed to be simple and easy to use.
+
+<!-- Built With -->
+## Built with
+<div id="badges">
+  <img src="https://img.shields.io/badge/-axios-red?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge"/>
+  <img src="https://img.shields.io/badge/-react-lightblue?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/-Redux-violet?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge"/>
+  
+</div>
+
+<!-- Links -->
+## Links
+Front-End Part - https://github.com/AR-Pavan/quiz-app-backend
+
+Deployed Site - [https://zenclass-capstone-project.netlify.app/](https://my-simple-quiz-app-007.netlify.app/)
+
+
+<!-- CONTACT -->
+
+## Contact
+
+Annam Raghu Pavan - raghupavanannam@gmail.com
+
+Portfolio - https://raghupavan-annam-portfolio.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
